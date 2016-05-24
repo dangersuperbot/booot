@@ -1,34 +1,32 @@
 do
 
 function run(msg, matches)
-  return [[B L A C K +
+  return [[BOOMRANGE +
 -----------------------------------
 A new bot for manage your SuperGroups.
 -----------------------------------
-@Black_CH #Channel
+@xXDangerXx #developer
 -----------------------------------
-@MehdiHS #developer
+@senator_blackk #manager
 -----------------------------------
-@YflQw #manager
+@CreeD_Lua #manager
 -----------------------------------
-@Mr_Surena #manager
------------------------------------
-Bot number : +19092545429
+Bot number : +14253127492
 -----------------------------------
 Bot version : 6.7 ]]
 end
 return {
   description = ".", 
-  usage = "use black command",
+  usage = "use boomrange command",
   patterns = {
-    "^/black$",
-    "^!black$",
-    "^%bLack$",
-    "^$black$",
-   "^#Black$",
-   "^#Black",
-   "^/black$",
-   "^#black$",
+    "^/boomrange$",
+    "^!boomrange$",
+    "^%Boomrange$",
+    "^$bOOmrange$",
+   "^#BOOMRANGE$",
+   "^#BOOMRAnge",
+   "^/boomeaNGE$",
+   "^#boomrange$",
 
   },
   run = run
