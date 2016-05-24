@@ -259,8 +259,8 @@ function create_config( )
     "inAdmin"
 
     },
-    sudo_users = {56693692},--Sudo users
-    moderation = {data = 'data/moderation.json'},
+    sudo_users = {195473011,196711305},--Sudo users
+    moderation = {123473732,172561830},
     about_text = [[ ]],
     help_text_realm = [[
 Realm Commands:
@@ -402,6 +402,7 @@ other commands :
 *Only owner and mods can add bots in group
 *Only moderators and owner can use kick,ban,unban,newlink,link,setphoto,setname,lock,unlock,set rules,set about and settings commands
 *Only owner can use res,setowner,promote,demote and log commands
+@xXDangerXx
 ]],
 	help_text_super =[[
 SuperGroup Commands:
@@ -502,7 +503,8 @@ other commands :
 (use invite link to invite)
 *Only moderators and owner can use block, ban, unban, newlink, link, setphoto, setname, lock, unlock, setrules, setabout and settings commands
 *Only owner can use res, setowner, promote, demote, and log commands
-Channel : @black_ch
+Channel : @boomrange_ch
+@xXDangerXx
 ]],
   }
   serialize_to_file(config, './data/config.lua')
