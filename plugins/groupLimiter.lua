@@ -2,7 +2,7 @@
 
 -- DON'T USE THIS PLUGINS!!
 
--- By @MehdiHS
+-- By @xXDangerXx
 
 
 --[[local filename='data/expire.lua'
