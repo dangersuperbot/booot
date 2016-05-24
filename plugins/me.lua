@@ -29,5 +29,3 @@ return {
   run = run
 }
 end
-
---[[BY @MehdiHS:)]]
